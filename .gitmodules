@@ -1,0 +1,12 @@
+[submodule "near-certificate"]
+	path = near-certificate
+	url = https://github.com/Akather-io/near-certificate
+[submodule "Akather-WebGL"]
+	path = Akather-WebGL
+	url = https://github.com/Akather-io/Akather-WebGL
+[submodule "akather-certificate-app"]
+	path = akather-certificate-app
+	url = https://github.com/Akather-io/akather-certificate-app
+[submodule "akather-vr-mob"]
+	path = akather-vr-mob
+	url = https://github.com/Akather-io/akather-vr-mob
